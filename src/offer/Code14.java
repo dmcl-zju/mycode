@@ -1,4 +1,4 @@
-package com.zju.newcode;
+package offer;
 
 /**
  *	 返回数组的倒数第k个节点

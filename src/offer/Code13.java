@@ -1,4 +1,4 @@
-package com.zju.newcode;
+package offer;
 
 /**
  * 输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有的奇数位于数组的前半部分，

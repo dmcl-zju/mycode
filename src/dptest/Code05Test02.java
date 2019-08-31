@@ -4,7 +4,7 @@ package dptest;
  * @author LIN
  *
  */
-public class Code05Test {
+public class Code05Test02{
 	public static void main(String[] args) {
 		int[] arr = {5,10,25,1};
 		int aim = 25;

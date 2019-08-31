@@ -1,4 +1,4 @@
-package com.zju.newcode;
+package offer;
 
 public class Code10 {
 	//最优版本---其他版本和code07一样

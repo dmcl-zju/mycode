@@ -1,4 +1,4 @@
-package com.zju.newcode;
+package offer;
 
 /**
  * 	操作给定的二叉树，将其变换为源二叉树的镜像。
