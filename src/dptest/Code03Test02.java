@@ -17,6 +17,12 @@ public class Code03Test02 {
 	
 	//货币到index都是可以选的，返回最小货币数
 	private static int process(int[] arr,int index,int aim) {
+		
+		//不用换了，达到目标了
+		if(aim==0) {
+			return 0;
+		}
+		
 		//只有一张货币
 		if(index==0) {
 			if(aim%arr[0]==0) {
