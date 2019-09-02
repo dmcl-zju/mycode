@@ -1,4 +1,4 @@
-package bfs_dfs;
+package bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -8,7 +8,7 @@ import java.util.Queue;
  * @author lin
  *
  */
-public class Code04_FindWay {
+public class Code01_FindWay {
 	public static class Node{
 		int x;
 		int y;

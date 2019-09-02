@@ -1,4 +1,4 @@
-package bfs_dfs;
+package dfs;
 
 /**
  * ½£Ö¸offerµ¹ÊıCode65

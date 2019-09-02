@@ -1,4 +1,4 @@
-package bfs_dfs;
+package bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -35,7 +35,7 @@ import java.util.Scanner;
 	 钥匙的状态 就用二进制数表示 最多10 把钥匙 那就是1024
 	 比如我现在有第二把钥匙和第四把钥匙  那么我的钥匙状态就是 0101000000 也就是 320
  */
-public class Code06_HasKeyMap {
+public class Code03_HasKeyMap {
 	
 
 	public static void main(String[] args) {

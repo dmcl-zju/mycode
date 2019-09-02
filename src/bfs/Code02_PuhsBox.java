@@ -1,4 +1,4 @@
-package bfs_dfs;
+package bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -33,7 +33,7 @@ import java.util.Scanner;
  * @author lin
  *
  */
-public class Code05_PuhsBox {
+public class Code02_PuhsBox {
 	public static void main(String[] args) {
 //		//øÿ÷∆Ã® ‰»Î
 //		Scanner s = new Scanner(System.in);

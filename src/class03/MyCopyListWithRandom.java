@@ -38,11 +38,9 @@ public class MyCopyListWithRandom {
 		return map.get(head);
 	}
 	
-//----------------------思路二：不占用空间的方法-------------------------------------
+//----------------------思路二：剑指offer上方法-------------------------------------
 	public static Node copyListWithRand2(Node head) {
-		//System.out.println("666666666666666666666666666");
 		if(null == head) {
-			//System.out.println("55555555555555555555555");
 			return null;
 		}
 		//遍历链表并复制放在其下一个节点上
@@ -92,9 +90,8 @@ public class MyCopyListWithRandom {
 		}
 		return res;
 	}
-	
-	
 //--------------------------------------------------------------------------	
+	
 	public static void printRandLinkedList(Node head) {
 		Node cur = head;
 		System.out.print("order: ");
@@ -145,7 +142,6 @@ public class MyCopyListWithRandom {
 		printRandLinkedList(res2);
 		printRandLinkedList(head);
 		System.out.println("=========================");
-
 	}
 	
 	

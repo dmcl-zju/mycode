@@ -1,4 +1,4 @@
-package bfs_dfs;
+package bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -11,7 +11,7 @@ import org.omg.CORBA.PRIVATE_MEMBER;
  *
  */
 
-public class Code04_FindWayTest2 {
+public class Code01_FindWayTest2 {
 	
 	
 	private static int[][]  m = {
